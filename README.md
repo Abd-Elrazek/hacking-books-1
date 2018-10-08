@@ -122,6 +122,7 @@
 |[SIMD Compression and the Intersection of Sorted Integers (simdcompressionarxiv).pdf](https://github.com/hktalent/hacking-books/raw/master/SIMD Compression and the Intersection of Sorted Integers (simdcompressionarxiv).pdf) | 10 | 350 kB|
 |[Stratified B-trees and Versioning Dictionaries - 30 March 2011 (1103.4282v2).pdf](https://github.com/hktalent/hacking-books/raw/master/Stratified B-trees and Versioning Dictionaries - 30 March 2011 (1103.4282v2).pdf) | 8 | 268 kB|
 |[Abstract Rendering - Out-of-core Rendering for Information Visualization (2014).pdf](https://github.com/hktalent/hacking-books/raw/master/Abstract Rendering - Out-of-core Rendering for Information Visualization (2014).pdf) | 13 | 3.2 MB|
+|[palmer.pdf](https://github.com/hktalent/hacking-books/raw/master/palmer.pdf) | 12 | 1343 kB|
 |[Vectorized Bloom Filters for Advanced SIMD Processors (damon14).pdf](https://github.com/hktalent/hacking-books/raw/master/Vectorized Bloom Filters for Advanced SIMD Processors (damon14).pdf) | 6 | 975 kB|
 |[A Dynamic Perfect Hash Function Defined by an Extended Hash Indicator Table - 1984 (P245).PDF](https://github.com/hktalent/hacking-books/raw/master/A Dynamic Perfect Hash Function Defined by an Extended Hash Indicator Table - 1984 (P245).PDF) | 10 | 867 kB|
 |[Object-relative Addressing - Compressed Pointers in 64-bit Java Virtual Machines (P107_134).pdf](https://github.com/hktalent/hacking-books/raw/master/Object-relative Addressing - Compressed Pointers in 64-bit Java Virtual Machines (P107_134).pdf) | 22 | 602 kB|
@@ -146,6 +147,7 @@
 |[Dueling UNIXes and the UNIX Wars (login_apr15_17_salus.pdf).pdf](https://github.com/hktalent/hacking-books/raw/master/Dueling UNIXes and the UNIX Wars (login_apr15_17_salus.pdf).pdf) | 3 | 138 kB|
 |[20051115-digital_ca.pdf](https://github.com/hktalent/hacking-books/raw/master/20051115-digital_ca.pdf) | 7 | 236 kB|
 |[Proving the Correctness of Nonblocking Data Structures - ACM (p30-desnoyers).pdf](https://github.com/hktalent/hacking-books/raw/master/Proving the Correctness of Nonblocking Data Structures - ACM (p30-desnoyers).pdf) | 14 | 350 kB|
+|[高级Bash脚本编程指南.pdf](https://github.com/hktalent/hacking-books/raw/master/高级Bash脚本编程指南.pdf) | 588 | 2.7 MB|
 |[Everything You Always Wanted to Know About Synchronization but Were Afraid to Ask (p33-david).pdf](https://github.com/hktalent/hacking-books/raw/master/Everything You Always Wanted to Know About Synchronization but Were Afraid to Ask (p33-david).pdf) | 16 | 616 kB|
 |[When Prefetching Works, When It Doesn't, and Why - ACM, 2012 (lee_taco12).pdf](https://github.com/hktalent/hacking-books/raw/master/When Prefetching Works, When It Doesn't, and Why - ACM, 2012 (lee_taco12).pdf) | 29 | 2002 kB|
 |[PyParallel - How We Removed The GIL And Exploited All Cores - (PyData NYC, 2013).pdf](https://github.com/hktalent/hacking-books/raw/master/PyParallel - How We Removed The GIL And Exploited All Cores - (PyData NYC, 2013).pdf) | 153 | 4.4 MB|
@@ -255,6 +257,7 @@
 |[Stratified Synthesis - Automatically Learning the x86-64 Instruction Set - 2016 (pldi16-strata).pdf](https://github.com/hktalent/hacking-books/raw/master/Stratified Synthesis - Automatically Learning the x86-64 Instruction Set - 2016 (pldi16-strata).pdf) | 14 | 396 kB|
 |[Performance Analysis of BSTs in System Software - 2004 (libavl).pdf](https://github.com/hktalent/hacking-books/raw/master/Performance Analysis of BSTs in System Software - 2004 (libavl).pdf) | 12 | 309 kB|
 |[PE File Structure.pdf](https://github.com/hktalent/hacking-books/raw/master/PE File Structure.pdf) | 18 | 4.6 MB|
+|[Bash Shell 编程.pdf](https://github.com/hktalent/hacking-books/raw/master/Bash Shell 编程.pdf) | 24 | 183 kB|
 |[OWASP_Top_10-2017_(en).pdf](https://github.com/hktalent/hacking-books/raw/master/OWASP_Top_10-2017_(en).pdf) | 25 | 1746 kB|
 |[calling-shell-commands-from-plsql-1-1-129519.pdf](https://github.com/hktalent/hacking-books/raw/master/calling-shell-commands-from-plsql-1-1-129519.pdf) | 9 | 162 kB|
 |[A Case Study in Optimizing HTM-Enabled Dynamic Data Structures - Patricia Tries (2015).pdf](https://github.com/hktalent/hacking-books/raw/master/A Case Study in Optimizing HTM-Enabled Dynamic Data Structures - Patricia Tries (2015).pdf) | 9 | 318 kB|
@@ -284,6 +287,7 @@
 |[Screaming Fast Galois Field Arithmetic Using Intel SIMD Instructions (FAST-2013-GF).pdf](https://github.com/hktalent/hacking-books/raw/master/Screaming Fast Galois Field Arithmetic Using Intel SIMD Instructions (FAST-2013-GF).pdf) | 9 | 815 kB|
 |[Efficient Estimation of Word Representations in Vector Space - 2013 (1301.3781).pdf](https://github.com/hktalent/hacking-books/raw/master/Efficient Estimation of Word Representations in Vector Space - 2013 (1301.3781).pdf) | 12 | 223 kB|
 |[Down For The Count - Getting Reference Counting Back in the Ring (rc-ismm-2012).pdf](https://github.com/hktalent/hacking-books/raw/master/Down For The Count - Getting Reference Counting Back in the Ring (rc-ismm-2012).pdf) | 11 | 404 kB|
+|[dc-11-gentil.pdf](https://github.com/hktalent/hacking-books/raw/master/dc-11-gentil.pdf) | 23 | 511 kB|
 |[Reactor - An Object Behavioral Pattern for Demultiplexing and Dispatching Handles for Synchronous Events.pdf](https://github.com/hktalent/hacking-books/raw/master/Reactor - An Object Behavioral Pattern for Demultiplexing and Dispatching Handles for Synchronous Events.pdf) | 11 | 910 kB|
 |[Fast Deterministic Selection - Andrei Alexandrescu - June 2016 (1606.00484v1).pdf](https://github.com/hktalent/hacking-books/raw/master/Fast Deterministic Selection - Andrei Alexandrescu - June 2016 (1606.00484v1).pdf) | 16 | 329 kB|
 |[CUDA Streams - Best Practices and Common Pitfalls - Slides (2012).pdf](https://github.com/hktalent/hacking-books/raw/master/CUDA Streams - Best Practices and Common Pitfalls - Slides (2012).pdf) | 71 | 1911 kB|
@@ -296,6 +300,7 @@
 |[Oracle 11gr1 SQL Language Reference (b28286).pdf](https://github.com/hktalent/hacking-books/raw/master/Oracle 11gr1 SQL Language Reference (b28286).pdf) | 1546 | 24 MB|
 |[IBM Fibre Channel Basic Storage Area Network (SAN) Configuration Setup Guide.pdf](https://github.com/hktalent/hacking-books/raw/master/IBM Fibre Channel Basic Storage Area Network (SAN) Configuration Setup Guide.pdf) | 36 | 283 kB|
 |[Database System Implementation - COSC 404 - Slides.pdf](https://github.com/hktalent/hacking-books/raw/master/Database System Implementation - COSC 404 - Slides.pdf) | 147 | 2.3 MB|
+|[BlackHat_DC_2011_Grand-Workshop.pdf](https://github.com/hktalent/hacking-books/raw/master/BlackHat_DC_2011_Grand-Workshop.pdf) | 93 | 4.1 MB|
 |[Elementary Calculus - An Infinitesimal Approach (keislercalc-03-07-17).pdf](https://github.com/hktalent/hacking-books/raw/master/Elementary Calculus - An Infinitesimal Approach (keislercalc-03-07-17).pdf) | 992 | 25 MB|
 |[PC Assembly Language (July 23, 2006).pdf](https://github.com/hktalent/hacking-books/raw/master/PC Assembly Language (July 23, 2006).pdf) | 195 | 1047 kB|
 |[Managing Traffic with ALTQ.pdf](https://github.com/hktalent/hacking-books/raw/master/Managing Traffic with ALTQ.pdf) | 9 | 230 kB|
@@ -327,6 +332,7 @@
 |[Metasploit-The Penetration Tester s Guide.pdf](https://github.com/hktalent/hacking-books/raw/master/Metasploit-The Penetration Tester s Guide.pdf) | 332 | 6.9 MB|
 |[Windows Network Services Internals - Hivercon 2003 (Jean-Baptiste Marchand).pdf](https://github.com/hktalent/hacking-books/raw/master/Windows Network Services Internals - Hivercon 2003 (Jean-Baptiste Marchand).pdf) | 92 | 3.3 MB|
 |[An Introduction To Statistical Learning with Applications in R (ISLR Sixth Printing).pdf](https://github.com/hktalent/hacking-books/raw/master/An Introduction To Statistical Learning with Applications in R (ISLR Sixth Printing).pdf) | 440 | 9.0 MB|
+|[Web_Services_Hacking_and_Hardening.pdf](https://github.com/hktalent/hacking-books/raw/master/Web_Services_Hacking_and_Hardening.pdf) | 37 | 575 kB|
 |[Gunrock - A High-Performance Graph Processing Library on the GPU - 2016.pdf](https://github.com/hktalent/hacking-books/raw/master/Gunrock - A High-Performance Graph Processing Library on the GPU - 2016.pdf) | 15 | 812 kB|
 |[Heapy - A Memory Profiler and Debugger for Python - 2006 (heapy-thesis).pdf](https://github.com/hktalent/hacking-books/raw/master/Heapy - A Memory Profiler and Debugger for Python - 2006 (heapy-thesis).pdf) | 77 | 1300 kB|
 |[Weird Things that Surprise Academics Trying to Commercialize a Static Checking Tool (spin05-coverity).pdf](https://github.com/hktalent/hacking-books/raw/master/Weird Things that Surprise Academics Trying to Commercialize a Static Checking Tool (spin05-coverity).pdf) | 4 | 263 kB|
@@ -476,6 +482,7 @@
 |[A Faster Cutting Plane Method and its Implications for Combinatorial and Convex Optimization - MIT - 2015 (1508.04874).pdf](https://github.com/hktalent/hacking-books/raw/master/A Faster Cutting Plane Method and its Implications for Combinatorial and Convex Optimization - MIT - 2015 (1508.04874).pdf) | 111 | 1226 kB|
 |[Windows Filter Manager - Slides (2003).pdf](https://github.com/hktalent/hacking-books/raw/master/Windows Filter Manager - Slides (2003).pdf) | 27 | 477 kB|
 |[The Ubiquitous B-Tree - 1979 (comer-b-tree).pdf](https://github.com/hktalent/hacking-books/raw/master/The Ubiquitous B-Tree - 1979 (comer-b-tree).pdf) | 17 | 1340 kB|
+|[re.pdf](https://github.com/hktalent/hacking-books/raw/master/re.pdf) | 119 | 651 kB|
 |[Exploiting SIMD for Complex Numerical Predicates - 2015 (HardBD16_3).pdf](https://github.com/hktalent/hacking-books/raw/master/Exploiting SIMD for Complex Numerical Predicates - 2015 (HardBD16_3).pdf) | 7 | 304 kB|
 |[Pool Tag Quick Scanning for Windows Memory Analysis - 2016.pdf](https://github.com/hktalent/hacking-books/raw/master/Pool Tag Quick Scanning for Windows Memory Analysis - 2016.pdf) | 8 | 643 kB|
 |[Memory Ordering in Modern Microprocessors (ordering.2007.09.19a).pdf](https://github.com/hktalent/hacking-books/raw/master/Memory Ordering in Modern Microprocessors (ordering.2007.09.19a).pdf) | 8 | 122 kB|
@@ -553,6 +560,7 @@
 |[Bitmap Index Design and Evaluation - 1998 (P355).pdf](https://github.com/hktalent/hacking-books/raw/master/Bitmap Index Design and Evaluation - 1998 (P355).pdf) | 12 | 1407 kB|
 |[Windows User-Mode Drivers - Alex Ionescu (2012).pdf](https://github.com/hktalent/hacking-books/raw/master/Windows User-Mode Drivers - Alex Ionescu (2012).pdf) | 45 | 15 MB|
 |[Intel Xeon Phi - System Software Developers Guide (Nov 2012).pdf](https://github.com/hktalent/hacking-books/raw/master/Intel Xeon Phi - System Software Developers Guide (Nov 2012).pdf) | 201 | 3.4 MB|
+|[HackersSecrets.pdf](https://github.com/hktalent/hacking-books/raw/master/HackersSecrets.pdf) | 77 | 493 kB|
 |[SIMD at Insomniac Games (How We Do The Shuffle) - Slides - 2015.pdf](https://github.com/hktalent/hacking-books/raw/master/SIMD at Insomniac Games (How We Do The Shuffle) - Slides - 2015.pdf) | 229 | 946 kB|
 |[A NUMA API for Linux - Novell (2005).pdf](https://github.com/hktalent/hacking-books/raw/master/A NUMA API for Linux - Novell (2005).pdf) | 24 | 506 kB|
 |[Mastering the Game of Go with Deep Neural Networks and Tree Search.pdf](https://github.com/hktalent/hacking-books/raw/master/Mastering the Game of Go with Deep Neural Networks and Tree Search.pdf) | 37 | 1592 kB|
@@ -574,6 +582,7 @@
 |[Lockless Programming - GDC 2009 - Slides (Bruce Dawson).pdf](https://github.com/hktalent/hacking-books/raw/master/Lockless Programming - GDC 2009 - Slides (Bruce Dawson).pdf) | 49 | 521 kB|
 |[Programming Interfaces to Non-Volatile Memory - Slides.pdf](https://github.com/hktalent/hacking-books/raw/master/Programming Interfaces to Non-Volatile Memory - Slides.pdf) | 98 | 6.8 MB|
 |[Prefix B-trees - 1977.pdf](https://github.com/hktalent/hacking-books/raw/master/Prefix B-trees - 1977.pdf) | 16 | 1100 kB|
+|[blindsql.pdf](https://github.com/hktalent/hacking-books/raw/master/blindsql.pdf) | 4 | 35 kB|
 |[Blogel - A Block-Centric Framework for Distributed Computation on Real-World Graphs (2014).pdf](https://github.com/hktalent/hacking-books/raw/master/Blogel - A Block-Centric Framework for Distributed Computation on Real-World Graphs (2014).pdf) | 12 | 898 kB|
 |[Peering Inside the PE - A Tour of the Win32 Portable Executable File Format - MSDN (1994).pdf](https://github.com/hktalent/hacking-books/raw/master/Peering Inside the PE - A Tour of the Win32 Portable Executable File Format - MSDN (1994).pdf) | 18 | 798 kB|
 |[Topics in IRIX 6.5 Programming.pdf](https://github.com/hktalent/hacking-books/raw/master/Topics in IRIX 6.5 Programming.pdf) | 466 | 2.7 MB|
@@ -606,6 +615,7 @@
 |[Intel AVX-512 Instructions and Their Use in the Implementation of Math Functions - Slides (s1-cornea).pdf](https://github.com/hktalent/hacking-books/raw/master/Intel AVX-512 Instructions and Their Use in the Implementation of Math Functions - Slides (s1-cornea).pdf) | 20 | 413 kB|
 |[Verification Techniques.pdf](https://github.com/hktalent/hacking-books/raw/master/Verification Techniques.pdf) | 29 | 245 kB|
 |[Efficient Computation of Binomial Coefficients Using Splay Trees - 2016 (10.11648.j.ijdst.20160201.14).pdf](https://github.com/hktalent/hacking-books/raw/master/Efficient Computation of Binomial Coefficients Using Splay Trees - 2016 (10.11648.j.ijdst.20160201.14).pdf) | 6 | 1409 kB|
+|[xss_security_days.pdf](https://github.com/hktalent/hacking-books/raw/master/xss_security_days.pdf) | 15 | 880 kB|
 |[Linear Road - A Stream Data Management Benchmark (2004).pdf](https://github.com/hktalent/hacking-books/raw/master/Linear Road - A Stream Data Management Benchmark (2004).pdf) | 12 | 171 kB|
 |[Critique of Microkernel Architectures (Slides).pdf](https://github.com/hktalent/hacking-books/raw/master/Critique of Microkernel Architectures (Slides).pdf) | 32 | 445 kB|
 |[Writing a Simple Operating System from Scratch - Nick Blundell - Dec 2010.pdf](https://github.com/hktalent/hacking-books/raw/master/Writing a Simple Operating System from Scratch - Nick Blundell - Dec 2010.pdf) | 77 | 756 kB|
@@ -638,6 +648,7 @@
 |[Ring 0 to Ring-1 Attacks - Hyper-V IPC Internals - Alex Ionescu (syscan2015).pdf](https://github.com/hktalent/hacking-books/raw/master/Ring 0 to Ring-1 Attacks - Hyper-V IPC Internals - Alex Ionescu (syscan2015).pdf) | 64 | 2.3 MB|
 |[AMD - GCN3 Instruction Set Architecture - Graphics Core Next Architecture, Generation 3 (Revision 1.0, March 2015).pdf](https://github.com/hktalent/hacking-books/raw/master/AMD - GCN3 Instruction Set Architecture - Graphics Core Next Architecture, Generation 3 (Revision 1.0, March 2015).pdf) | 354 | 6.0 MB|
 |[Learning a Hidden Hypergraph - 2006 (angluin06a).pdf](https://github.com/hktalent/hacking-books/raw/master/Learning a Hidden Hypergraph - 2006 (angluin06a).pdf) | 22 | 175 kB|
+|[9781783989522-MASTERING_WIRESHARK.pdf](https://github.com/hktalent/hacking-books/raw/master/9781783989522-MASTERING_WIRESHARK.pdf) | - | 41 kB|
 |[Alternating Coding and its Decoder Architectures for Unary-Prefixed Codes - PhD Thesis, Shang Xue (2005).pdf](https://github.com/hktalent/hacking-books/raw/master/Alternating Coding and its Decoder Architectures for Unary-Prefixed Codes - PhD Thesis, Shang Xue (2005).pdf) | 148 | 1957 kB|
 |[Solaris 10 System Administration Guide - Solaris Fibre Channel Storage Configuration and Multipathing Support Guide.pdf](https://github.com/hktalent/hacking-books/raw/master/Solaris 10 System Administration Guide - Solaris Fibre Channel Storage Configuration and Multipathing Support Guide.pdf) | 78 | 488 kB|
 |[Fast Multiple String Matching Using Streaming SIMD Extensions Technology - 2013 (psc13p08_presentation).pdf](https://github.com/hktalent/hacking-books/raw/master/Fast Multiple String Matching Using Streaming SIMD Extensions Technology - 2013 (psc13p08_presentation).pdf) | 34 | 905 kB|
@@ -862,6 +873,7 @@
 |[20060808-apache-jk2-tomcat.pdf](https://github.com/hktalent/hacking-books/raw/master/20060808-apache-jk2-tomcat.pdf) | 7 | 176 kB|
 |[FAST - Fast Architecture Sensitive Tree Search on Modern CPUs and GPUs.pdf](https://github.com/hktalent/hacking-books/raw/master/FAST - Fast Architecture Sensitive Tree Search on Modern CPUs and GPUs.pdf) | 12 | 1210 kB|
 |[Intel 64 and IA-32 Architectures Software Developer’s Manual V3 - Sept 2014 (325384-052US).pdf](https://github.com/hktalent/hacking-books/raw/master/Intel 64 and IA-32 Architectures Software Developer’s Manual V3 - Sept 2014 (325384-052US).pdf) | 1514 | 8.3 MB|
+|[bh-eu-07-cerrudo-WP-up.pdf](https://github.com/hktalent/hacking-books/raw/master/bh-eu-07-cerrudo-WP-up.pdf) | 30 | 552 kB|
 |[Mental models, Consistency and Programming Aptitude (CRPITV78Bornat).pdf](https://github.com/hktalent/hacking-books/raw/master/Mental models, Consistency and Programming Aptitude (CRPITV78Bornat).pdf) | 10 | 247 kB|
 |[Colfax Optimization Techniques for the Intel MIC Architecture - Part 2 of 3 - Strip-Mining for Vectorization (2015).pdf](https://github.com/hktalent/hacking-books/raw/master/Colfax Optimization Techniques for the Intel MIC Architecture - Part 2 of 3 - Strip-Mining for Vectorization (2015).pdf) | 14 | 666 kB|
 |[Agner Fog - Optimizing Subroutines in Assembly Language - An optimization guide to x86 platforms (2013-09-28).pdf](https://github.com/hktalent/hacking-books/raw/master/Agner Fog - Optimizing Subroutines in Assembly Language - An optimization guide to x86 platforms (2013-09-28).pdf) | 164 | 942 kB|
@@ -959,6 +971,7 @@
 |[20060706-bugzilla.pdf](https://github.com/hktalent/hacking-books/raw/master/20060706-bugzilla.pdf) | 6 | 445 kB|
 |[SpaceJMP - Programming with Multiple Virtual Address Spaces - 2016 (spacejmp_asplos16).pdf](https://github.com/hktalent/hacking-books/raw/master/SpaceJMP - Programming with Multiple Virtual Address Spaces - 2016 (spacejmp_asplos16).pdf) | 16 | 616 kB|
 |[Improving Compiler Optimization with Machine Learning (2014_Kulkarni_Sameer_PhD).pdf](https://github.com/hktalent/hacking-books/raw/master/Improving Compiler Optimization with Machine Learning (2014_Kulkarni_Sameer_PhD).pdf) | 161 | 5.2 MB|
+|[Threat Modeling.pdf](https://github.com/hktalent/hacking-books/raw/master/Threat Modeling.pdf) | 626 | 5.9 MB|
 |[How to Partition a Billion-Node Graph - Microsoft Research (2016).pdf](https://github.com/hktalent/hacking-books/raw/master/How to Partition a Billion-Node Graph - Microsoft Research (2016).pdf) | 12 | 245 kB|
 |[AMD64 Architecture Programmer's Manual - Volume 3 - General-Purpose and System Instructions (24594, r3.22, Jun-2015).pdf](https://github.com/hktalent/hacking-books/raw/master/AMD64 Architecture Programmer's Manual - Volume 3 - General-Purpose and System Instructions (24594, r3.22, Jun-2015).pdf) | 672 | 3.6 MB|
 |[Mellanox ConnectX-2 10GbE Cards - Product Data Sheet.pdf](https://github.com/hktalent/hacking-books/raw/master/Mellanox ConnectX-2 10GbE Cards - Product Data Sheet.pdf) | 2 | 626 kB|
@@ -1006,6 +1019,7 @@
 |[Fibre Channel Fundamentals.pdf](https://github.com/hktalent/hacking-books/raw/master/Fibre Channel Fundamentals.pdf) | 88 | 3.0 MB|
 |[An NUMA API for Linux - Andi Kleen, Aug 2004.pdf](https://github.com/hktalent/hacking-books/raw/master/An NUMA API for Linux - Andi Kleen, Aug 2004.pdf) | 12 | 136 kB|
 |[20051220-Linux_GMAIL.pdf](https://github.com/hktalent/hacking-books/raw/master/20051220-Linux_GMAIL.pdf) | 7 | 285 kB|
+|[defcon-17-joseph_mccray-adv_sql_injection.pdf](https://github.com/hktalent/hacking-books/raw/master/defcon-17-joseph_mccray-adv_sql_injection.pdf) | 72 | 1389 kB|
 |[IRON File Systems (iron-sosp05).pdf](https://github.com/hktalent/hacking-books/raw/master/IRON File Systems (iron-sosp05).pdf) | 15 | 271 kB|
 |[Perfect matchings in r-partite r-graphs (2008).pdf](https://github.com/hktalent/hacking-books/raw/master/Perfect matchings in r-partite r-graphs (2008).pdf) | 4 | 341 kB|
 |[Analysis of B-tree Data Structure and its Usage in Computer Forensics (484192.B-tree).pdf](https://github.com/hktalent/hacking-books/raw/master/Analysis of B-tree Data Structure and its Usage in Computer Forensics (484192.B-tree).pdf) | 6 | 816 kB|
@@ -1033,6 +1047,7 @@
 |[Thermometer Encoding - One Hot Way To Resist Adversarial Examples - ICLR 2018.pdf](https://github.com/hktalent/hacking-books/raw/master/Thermometer Encoding - One Hot Way To Resist Adversarial Examples - ICLR 2018.pdf) | 22 | 2.0 MB|
 |[Microsoft Portable Executable and Common Object File Format Specification - 1999 (pecoff).pdf](https://github.com/hktalent/hacking-books/raw/master/Microsoft Portable Executable and Common Object File Format Specification - 1999 (pecoff).pdf) | 73 | 764 kB|
 |[Windows Commands.pdf](https://github.com/hktalent/hacking-books/raw/master/Windows Commands.pdf) | 948 | 4.6 MB|
+|[XSS.pdf](https://github.com/hktalent/hacking-books/raw/master/XSS.pdf) | 9 | 91 kB|
 |[ispc - A SPMD Compiler for High-Performance CPU Programming (ispc_inpar_2012).pdf](https://github.com/hktalent/hacking-books/raw/master/ispc - A SPMD Compiler for High-Performance CPU Programming (ispc_inpar_2012).pdf) | 13 | 365 kB|
 |[Deep Learning Tutorial - Slides - 2013 (lecun-ranzato-icml2013).pdf](https://github.com/hktalent/hacking-books/raw/master/Deep Learning Tutorial - Slides - 2013 (lecun-ranzato-icml2013).pdf) | 204 | 11 MB|
 |[Memory Efficient Hard Real-Time Garbage Collection (2003).pdf](https://github.com/hktalent/hacking-books/raw/master/Memory Efficient Hard Real-Time Garbage Collection (2003).pdf) | 202 | 1174 kB|
@@ -1056,6 +1071,7 @@
 |[Machine Learning - The High-Interest Credit Card of Technical Debt - Google (43146).pdf](https://github.com/hktalent/hacking-books/raw/master/Machine Learning - The High-Interest Credit Card of Technical Debt - Google (43146).pdf) | 9 | 92 kB|
 |[Array Layouts for Comparison-based Searching (March 14, 2017).pdf](https://github.com/hktalent/hacking-books/raw/master/Array Layouts for Comparison-based Searching (March 14, 2017).pdf) | 49 | 460 kB|
 |[OpenVMS RTL String Manipulation (STR$) Manual - April 2006 (AA-PV6MD-TK).pdf](https://github.com/hktalent/hacking-books/raw/master/OpenVMS RTL String Manipulation (STR$) Manual - April 2006 (AA-PV6MD-TK).pdf) | 122 | 252 kB|
+|[ComputerHacking.pdf](https://github.com/hktalent/hacking-books/raw/master/ComputerHacking.pdf) | 42 | 442 kB|
 |[Benefits of IO Acceleration Technology in Clusters.pdf](https://github.com/hktalent/hacking-books/raw/master/Benefits of IO Acceleration Technology in Clusters.pdf) | 10 | 271 kB|
 |[Relative Suffix Trees - 15th Dec, 2017 (1508.02550).pdf](https://github.com/hktalent/hacking-books/raw/master/Relative Suffix Trees - 15th Dec, 2017 (1508.02550).pdf) | 16 | 619 kB|
 |[When Corrections Fail - The Persistence of Political Misperceptions (nyhan-reifler).pdf](https://github.com/hktalent/hacking-books/raw/master/When Corrections Fail - The Persistence of Political Misperceptions (nyhan-reifler).pdf) | 50 | 883 kB|
@@ -1115,6 +1131,7 @@
 |[Near-Optimal Space Perfect Hashing Algorithms - PhD Thesis (2008).pdf](https://github.com/hktalent/hacking-books/raw/master/Near-Optimal Space Perfect Hashing Algorithms - PhD Thesis (2008).pdf) | 171 | 1366 kB|
 |[Battle of SKM and IUM - How Windows 10 Rewrites OS Architecture - Alex Ionescu - 2015 (blackhat2015).pdf](https://github.com/hktalent/hacking-books/raw/master/Battle of SKM and IUM - How Windows 10 Rewrites OS Architecture - Alex Ionescu - 2015 (blackhat2015).pdf) | 65 | 1534 kB|
 |[AMD64 Architecture Programmer's Manual - Volume 5 - 64-Bit Media and x87 Floating-point Instructions (26569, r3.12, Mar-2012).pdf](https://github.com/hktalent/hacking-books/raw/master/AMD64 Architecture Programmer's Manual - Volume 5 - 64-Bit Media and x87 Floating-point Instructions (26569, r3.12, Mar-2012).pdf) | 368 | 1669 kB|
+|[ACC626 Social Engineering A Cheung.pdf](https://github.com/hktalent/hacking-books/raw/master/ACC626 Social Engineering A Cheung.pdf) | - | 51 kB|
 |[RTFM - Red Team Field Manual v3.pdf](https://github.com/hktalent/hacking-books/raw/master/RTFM - Red Team Field Manual v3.pdf) | 134 | 24 MB|
 |[Hardware-Aware Optimization- Using Intel Streaming SIMD Extensions - Slides (2010).pdf](https://github.com/hktalent/hacking-books/raw/master/Hardware-Aware Optimization- Using Intel Streaming SIMD Extensions - Slides (2010).pdf) | 44 | 2.5 MB|
 |[Paper - Fractal Prefetching B-Trees.pdf](https://github.com/hktalent/hacking-books/raw/master/Paper - Fractal Prefetching B-Trees.pdf) | 12 | 335 kB|
@@ -1122,6 +1139,7 @@
 |[BlueBorne Technical White Paper-1.pdf](https://github.com/hktalent/hacking-books/raw/master/BlueBorne Technical White Paper-1.pdf) | 41 | 3.2 MB|
 |[DataMining-ch5.pdf](https://github.com/hktalent/hacking-books/raw/master/DataMining-ch5.pdf) | 42 | 9.4 MB|
 |[Ownership and Reference Counting based Garbage Collection in the Actor World - Ponylang (2015).pdf](https://github.com/hktalent/hacking-books/raw/master/Ownership and Reference Counting based Garbage Collection in the Actor World - Ponylang (2015).pdf) | 9 | 360 kB|
+|[Syngress.Violent.Python.a.Cookbook.for.Hackers.2013.pdf](https://github.com/hktalent/hacking-books/raw/master/Syngress.Violent.Python.a.Cookbook.for.Hackers.2013.pdf) | - | 42 kB|
 |[Managing the Google T1-5 Relational Database (10.1.1.456.9390).pdf](https://github.com/hktalent/hacking-books/raw/master/Managing the Google T1-5 Relational Database (10.1.1.456.9390).pdf) | 6 | 133 kB|
 |[Understanding Open Market Operations.pdf](https://github.com/hktalent/hacking-books/raw/master/Understanding Open Market Operations.pdf) | 56 | 348 kB|
 |[POSH - Python Object Sharing.pdf](https://github.com/hktalent/hacking-books/raw/master/POSH - Python Object Sharing.pdf) | 11 | 220 kB|
@@ -1150,6 +1168,7 @@
 |[A Look at Intel's Dataplane Development Kit (2014).pdf](https://github.com/hktalent/hacking-books/raw/master/A Look at Intel's Dataplane Development Kit (2014).pdf) | 8 | 723 kB|
 |[Oracle 11 Data Warehousing Guide (e25554).pdf](https://github.com/hktalent/hacking-books/raw/master/Oracle 11 Data Warehousing Guide (e25554).pdf) | 530 | 6.7 MB|
 |[Security Engineering - Ross Anderson (v1).pdf](https://github.com/hktalent/hacking-books/raw/master/Security Engineering - Ross Anderson (v1).pdf) | 600 | 16 MB|
+|[HackYourFriend.pdf](https://github.com/hktalent/hacking-books/raw/master/HackYourFriend.pdf) | 7 | 1069 kB|
 |[Explaining AdaBoost.pdf](https://github.com/hktalent/hacking-books/raw/master/Explaining AdaBoost.pdf) | 16 | 190 kB|
 |[Patterns Of Software - Tales from the Software Community.pdf](https://github.com/hktalent/hacking-books/raw/master/Patterns Of Software - Tales from the Software Community.pdf) | 239 | 1202 kB|
 |[On the Construction and Application of Compressed Text Indexes (2004).pdf](https://github.com/hktalent/hacking-books/raw/master/On the Construction and Application of Compressed Text Indexes (2004).pdf) | 98 | 645 kB|
@@ -1257,6 +1276,7 @@
 |[An In-Depth Analysis of Disassembly on Full-Scale x86-x64 Binaries - 2016 (sec16_paper_andriesse).pdf](https://github.com/hktalent/hacking-books/raw/master/An In-Depth Analysis of Disassembly on Full-Scale x86-x64 Binaries - 2016 (sec16_paper_andriesse).pdf) | 19 | 421 kB|
 |[Practical R (2013).pdf](https://github.com/hktalent/hacking-books/raw/master/Practical R (2013).pdf) | 73 | 691 kB|
 |[CUDA Asynchronous Memory Usage and Execution (cuda_05_ykhung).pdf](https://github.com/hktalent/hacking-books/raw/master/CUDA Asynchronous Memory Usage and Execution (cuda_05_ykhung).pdf) | 61 | 3.0 MB|
+|[Linux 操作系统 – Shell 高级篇.pdf](https://github.com/hktalent/hacking-books/raw/master/Linux 操作系统 – Shell 高级篇.pdf) | 31 | 142 kB|
 |[Rich vs King - The Entrepreneur's Dilemma - Harvard (2006).pdf](https://github.com/hktalent/hacking-books/raw/master/Rich vs King - The Entrepreneur's Dilemma - Harvard (2006).pdf) | 7 | 35 kB|
 |[Empirical Study of the Anatomy of Modern SAT Solvers (2010).pdf](https://github.com/hktalent/hacking-books/raw/master/Empirical Study of the Anatomy of Modern SAT Solvers (2010).pdf) | 14 | 568 kB|
 |[JavaScript Cheat Sheet.pdf](https://github.com/hktalent/hacking-books/raw/master/JavaScript Cheat Sheet.pdf) | 1 | 453 kB|
@@ -1269,6 +1289,7 @@
 |[Semantic Patches - Documenting and Automating Collateral Evolutions in Linux Device Drivers (ols07-padioleau).pdf](https://github.com/hktalent/hacking-books/raw/master/Semantic Patches - Documenting and Automating Collateral Evolutions in Linux Device Drivers (ols07-padioleau).pdf) | 14 | 144 kB|
 |[Demystifying DAS, SAN, NAS, NAS Gateways, Fibre Channel, and iSCSI.pdf](https://github.com/hktalent/hacking-books/raw/master/Demystifying DAS, SAN, NAS, NAS Gateways, Fibre Channel, and iSCSI.pdf) | 32 | 573 kB|
 |[Intel 64 and IA-32 Architectures Optimization Reference Manual - Sept 2014 (248966-030).pdf](https://github.com/hktalent/hacking-books/raw/master/Intel 64 and IA-32 Architectures Optimization Reference Manual - Sept 2014 (248966-030).pdf) | 642 | 4.0 MB|
+|[9781782168492-KALI_LINUX_2_WINDOWS_PENETRATION_TESTING.pdf](https://github.com/hktalent/hacking-books/raw/master/9781782168492-KALI_LINUX_2_WINDOWS_PENETRATION_TESTING.pdf) | - | 42 kB|
 |[WinDbg - A to Z (Slides).pdf](https://github.com/hktalent/hacking-books/raw/master/WinDbg - A to Z (Slides).pdf) | 111 | 1545 kB|
 |[General Analysis of Maxima and Minima in Constrained Optimization Problems.pdf](https://github.com/hktalent/hacking-books/raw/master/General Analysis of Maxima and Minima in Constrained Optimization Problems.pdf) | 28 | 165 kB|
 |[DataMining-ch2.pdf](https://github.com/hktalent/hacking-books/raw/master/DataMining-ch2.pdf) | 56 | 15 MB|
@@ -1278,6 +1299,7 @@
 |[AMD64 Architecture Programmer's Manual - Volume 4 - 128-Bit and 256-Bit Media Instructions (26568, r3.18, Oct-2013).pdf](https://github.com/hktalent/hacking-books/raw/master/AMD64 Architecture Programmer's Manual - Volume 4 - 128-Bit and 256-Bit Media Instructions (26568, r3.18, Oct-2013).pdf) | 1025 | 4.7 MB|
 |[Oracle 11g - Advanced Compression Whitepaper (Jan 2012).pdf](https://github.com/hktalent/hacking-books/raw/master/Oracle 11g - Advanced Compression Whitepaper (Jan 2012).pdf) | 15 | 399 kB|
 |[Cognitive Biases Potentially Affecting Judgment of Global Risks (2008).pdf](https://github.com/hktalent/hacking-books/raw/master/Cognitive Biases Potentially Affecting Judgment of Global Risks (2008).pdf) | 31 | 411 kB|
+|[9781783554638-WIRESHARK_ESSENTIALS.pdf](https://github.com/hktalent/hacking-books/raw/master/9781783554638-WIRESHARK_ESSENTIALS.pdf) | - | 41 kB|
 |[Rethinking SIMD Vectorization for In-Memory Databases (2015).pdf](https://github.com/hktalent/hacking-books/raw/master/Rethinking SIMD Vectorization for In-Memory Databases (2015).pdf) | 16 | 2.1 MB|
 |[It's Time for Low Latency (latency_hotos11).pdf](https://github.com/hktalent/hacking-books/raw/master/It's Time for Low Latency (latency_hotos11).pdf) | 5 | 82 kB|
 |[Further Scramblings of Marsaglia's Xorshift Generators - 23 May 2016 (1404.0390).pdf](https://github.com/hktalent/hacking-books/raw/master/Further Scramblings of Marsaglia's Xorshift Generators - 23 May 2016 (1404.0390).pdf) | 9 | 395 kB|
