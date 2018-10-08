@@ -1,3 +1,4 @@
+fdupes -r -q -N -s -d .
 if [ -f fileInfo.txt ]
 then
 	echo ''
@@ -6,5 +7,5 @@ else
 fi;
 echo "|File Name|PageCount|FileSize|"
 echo "| --- | --- | --- |"
-# https://raw.githubusercontent.com/hktalent/
-cat fileInfo.txt|awk -F '\t' '{print "|["$1"](hacking-books/blob/master/"$1") | "$2" | "$3"|"}'
+
+cat fileInfo.txt|awk -F '\t' '{print "|["$1"](https://github.com/hktalent/hacking-books/raw/master/"$1") | "$2" | "$3"|"}'
